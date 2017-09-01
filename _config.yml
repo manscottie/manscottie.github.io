@@ -13,11 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Scottie Code Learning Space
+title: Scottie Learning Space
 email: scottieman.gh@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Interested in machine learning and would like to practise it by posting codes here.
-  Feel free to let me know if any comment you have.
+description: | # this means to ignore newlines until "baseurl:"
+  Interested in both machine learning and reinforcement learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
